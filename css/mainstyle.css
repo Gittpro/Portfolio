@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family:"Audiowide", sans-serif;
+    
+}
+body{
+    background-color:hsl(216, 65%, 11%);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.navlist{
+    text-align: center;
+    list-style: none;
+}
+.navlist li{
+    display: block;
+}
+.navlist li a{
+ text-decoration: none;
+ color: whitesmoke;
+font-size: 5rem;
+}
+.navlist li a:hover{
+    color: #64ffda;
+    text-decoration: underline;
+}
