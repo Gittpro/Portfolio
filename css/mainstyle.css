@@ -33,3 +33,8 @@ font-size: 5rem;
     color: #64ffda;
     text-decoration: underline;
 }
+@media screen and (max-width:768px){
+    .navlist li a{
+        font-size: 2rem;
+    }
+}
