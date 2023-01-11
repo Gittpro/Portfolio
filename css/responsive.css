@@ -41,6 +41,9 @@ padding: 1rem;
 .btn{
     width: 80%;
 }
+    img{
+    width: 80%;
+}
 .skillimg{
     width: 100%;
     display: none;
@@ -129,8 +132,5 @@ padding: 1rem;
 }
 .lista{
     width: 70%;
-}
-    img{
-    width: 80%;
 }
 }
