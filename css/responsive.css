@@ -38,10 +38,10 @@ padding: 1rem;
 .skills{
     flex-direction: column;
 }
-.btn{
+img{
     width: 80%;
 }
-    img{
+.btn{
     width: 80%;
 }
 .skillimg{
@@ -111,7 +111,7 @@ padding: 1rem;
     width: 80%;
 }
 }
-@media screen and (min-width:769px)and (max-width:1024px){
+@media screen and (min-width:769px)and (max-width:1130px){
     .port{
     display: grid;
     grid-template-columns:300px 300px;
@@ -133,7 +133,7 @@ padding: 1rem;
 .lista{
     width: 70%;
 }
-    img{
+img{
     width: 80%;
 }
 }
