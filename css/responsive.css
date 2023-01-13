@@ -120,8 +120,8 @@ img{
 .card {
     box-shadow: 0 4px 8px 0 rgb(4, 213, 42);
     transition: 0.3s;
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     border-radius: 5px;
   }
   .list1,.list2,.list3,.list4{
