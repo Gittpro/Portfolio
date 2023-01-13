@@ -73,7 +73,7 @@ img{
     display: block;
   }
   .link1,.link2,.link3,.link4{
-    display: block;
+    display: inline;
     margin: 15px;
     padding: 15px;
     color:whitesmoke;
@@ -106,6 +106,8 @@ img{
 }
 .expast{
     width: 80%;
+     overflow: auto;
+    white-space: nowrap;
 }
 .lista{
     width: 80%;
