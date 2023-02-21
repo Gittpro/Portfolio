@@ -344,7 +344,8 @@ h2.heading1{
 
 
   /* Simple Animation */
-div{
+  /* Simple Animation */
+.work,.hero,.skills,.past,.contact{
     animation: state 1s linear;
     position: relative;
 }
@@ -354,5 +355,3 @@ div{
     to{transform: scale(1,1);
     opacity: 1;}
 }
-
-
